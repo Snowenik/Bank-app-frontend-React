@@ -2,9 +2,14 @@
 
 
 
+
+
 ## Potrzebne oprogramowanie
 
 - Node.js
+
+
+
 
 
 ## Uruchomienie aplikacji
