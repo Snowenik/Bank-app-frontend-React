@@ -1,0 +1,46 @@
+.bar {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-content: center;
+    width: 100%;
+    margin-top: 100px;
+    background-color:aqua
+
+}
+
+.home {
+    flex: 1;
+
+}
+
+.about {
+    flex: 1;
+}
+
+
+.link {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

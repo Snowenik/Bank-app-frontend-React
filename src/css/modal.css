@@ -1,0 +1,98 @@
+
+
+
+.genericModal {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+
+
+.genericModalContainer {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    text-align: center;
+}
+
+
+.errorContainer {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+.error {
+    width: 20%;
+}
+
+
+
+
+.greenTickContainer {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+.greenTick {
+    width: 20%;
+}
+
+
+
+
+
+.genericModalContainer button {
+    width: 400px;
+    background-color: black;
+    border-color: black;
+    color: mintcream;
+    font-size: 24px;
+    border-radius: 30px;
+}
+
+
+.genericModalContainer button:hover {
+    opacity: 0.9;
+}
+
+
+.genericModalContainer p {
+    font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

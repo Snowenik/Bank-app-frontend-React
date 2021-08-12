@@ -1,0 +1,68 @@
+
+
+
+
+.supportContainer {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.supportHeader {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    text-align: center;
+}
+
+
+.supportHeader p {
+    font-size: 30px;
+    color: mintcream;
+}
+
+
+.supportContent {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.emailDiv {
+    margin-top: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

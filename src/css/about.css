@@ -1,0 +1,64 @@
+
+
+
+.aboutContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+
+
+.aboutHeader {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: black;
+}
+
+
+.aboutHeader p {
+    font-size: 30px;
+    color: mintcream;
+}
+
+
+
+.aboutContent {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 15%;
+    text-align: center;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+
+
+
+
+
+.loadingContainer {
+    width: 100%;
+    display: flex;
+    margin-top: 15%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+.spinnerContainer {
+    width: 100%;
+    text-align: center;
+}
+
+
+.spinner {
+    width: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
